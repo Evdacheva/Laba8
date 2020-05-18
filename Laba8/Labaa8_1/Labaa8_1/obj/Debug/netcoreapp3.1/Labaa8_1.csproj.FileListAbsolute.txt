@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\bin\Debug\netcoreapp3.1\Labaa8_1.exe
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\bin\Debug\netcoreapp3.1\Labaa8_1.deps.json
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\bin\Debug\netcoreapp3.1\Labaa8_1.runtimeconfig.json
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\bin\Debug\netcoreapp3.1\Labaa8_1.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\bin\Debug\netcoreapp3.1\Labaa8_1.dll
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\bin\Debug\netcoreapp3.1\Labaa8_1.pdb
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\obj\Debug\netcoreapp3.1\Labaa8_1.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\obj\Debug\netcoreapp3.1\Labaa8_1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\obj\Debug\netcoreapp3.1\Labaa8_1.AssemblyInfo.cs
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\obj\Debug\netcoreapp3.1\Labaa8_1.dll
+C:\Users\HP\source\repos\Labaa8_1\Labaa8_1\obj\Debug\netcoreapp3.1\Labaa8_1.pdb
